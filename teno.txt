@@ -1,2 +1,3 @@
 It's a sample website.
 DevOps Workshop by Akash
+On ubuntu
